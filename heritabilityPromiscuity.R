@@ -90,7 +90,7 @@ sqlTables(sparrowDB)
 ##############################################################################
 
 # I have made a list using the database from March 2015
-# called DataBaseV0.74-updated20150320-AlfredoCheckedMarch2015
+# database called DataBaseV0.74-updated20150320-AlfredoCheckedMarch2015
 # of all the birds associated with a brood, their cohorts,
 # their broods, their parents.
 
