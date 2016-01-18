@@ -98,7 +98,7 @@ sqlTables(sparrowDB)
 # based on these offspring and all the offspring that are
 # caught in the winter etc I ignore.
 
-# make some change
+# This is the Git version of an existing script
 
 
 ##############################################################################
