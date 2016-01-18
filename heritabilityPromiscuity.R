@@ -51,3 +51,23 @@ sparrowDB <- odbcConnectAccess('C:/Users/Issie/SkyDrive/PhD/SparrowDatabases/Dat
 # view tables within the database
 sqlTables(sparrowDB)
 
+
+##############################################################################
+# offspring data
+##############################################################################
+
+# I have made a list using the database from March 2015
+# called DataBaseV0.74-updated20150320-AlfredoCheckedMarch2015
+# of all the birds associated with a brood, their cohorts,
+# their broods, their parents.
+
+# This means that my measure of EPO and WPO totals is only
+# based on these offspring and all the offspring that are
+# caught in the winter etc I ignore.
+
+
+##############################################################################
+# Close the database
+##############################################################################
+
+close(sparrowDB)
