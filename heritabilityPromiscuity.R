@@ -12,6 +12,7 @@
 library(MCMCglmm)
 library(pedantics)
 library(RODBC)
+library(knitr)
 
 ##############################################################################
 # loading the pedigree
